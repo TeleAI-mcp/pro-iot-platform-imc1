@@ -1,2 +1,3 @@
-# pro-iot-platform-imc1
-A IoT device management platform for modern development workflows
+# Pro Iot Platform Imc1
+
+A IoT device management platform for modern development workflows.
